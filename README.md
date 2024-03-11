@@ -56,3 +56,13 @@ Capture hasilnya dan buatlah laporan di README.md. Apakah ada perbedaan pada tam
 ![alt text](image-7.png)
 
 Jangan lupa push dengan pesan commit: "W03: Jawaban soal 5".
+
+Soal 6
+Perbaiki kode tersebut pada bagian atribut src. Kode lainnya dapat Anda sesuaikan dari jawaban soal sebelumnya. Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+![alt text](image-8.png)
+
+Jangan lupa push dengan pesan commit: "W03: Jawaban soal 6".
+
+Catatan:
+
+Untuk memeriksa apakah perbaikan Anda berhasil, coba ubah nilai dari imageSize menjadi 'b'. Gambar harus menyesuaikan ukuran setelah diubah.
