@@ -41,3 +41,10 @@ Jawaban:
 error terjadi dikarenakan code perlu untuk di wrap pada jsx fragment dan merubah penamaan pada pclass="" menjadi pClassName=""
 
 Jangan lupa push dengan pesan commit: "W03: Jawaban soal 3".
+
+
+Soal 4
+Kode di atas masih terdapat error, silakan diperbaiki.
+![alt text](image-6.png)
+
+Jangan lupa push dengan pesan commit: "W03: Jawaban soal 4".
