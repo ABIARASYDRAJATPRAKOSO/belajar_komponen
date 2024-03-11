@@ -9,6 +9,7 @@ const person = {
 };
 
 export default function TodoList() {
+    const imageUrl = 'https://i.imgur.com/7vQD0fP';
   return (
     <div style={person.theme}>
       <h1>{person.name}'s Todos</h1>

@@ -48,3 +48,11 @@ Kode di atas masih terdapat error, silakan diperbaiki.
 ![alt text](image-6.png)
 
 Jangan lupa push dengan pesan commit: "W03: Jawaban soal 4".
+
+Soal 5
+Buka file src/components/todolist.tsx lakukan ekstrak URL gambar ke dalam objek person.
+
+Capture hasilnya dan buatlah laporan di README.md. Apakah ada perbedaan pada tampilan web saat ini?
+![alt text](image-7.png)
+
+Jangan lupa push dengan pesan commit: "W03: Jawaban soal 5".
