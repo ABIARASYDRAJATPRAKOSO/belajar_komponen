@@ -21,5 +21,10 @@ Jika terjadi error, Anda dapat mengakses tautan ini sebagai petunjuk solusinya: 
 
 Soal 2
 Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+![alt text](image-2.png)
+![alt text](image-3.png)
+
+Jawaban:
+berdasarkan soal no 2 dan apa yang saya bisa pelajar,user dapat mengunakkan komponen secara banyak dan berulang ulang kali,lalu mengenai perubahan interface yang dilakukan, terdapat perubahan yaitu gambar menjadi tidak rapi dikarenakan tidak adanya <div> pada code seperti pada praktikum sebelumnya 
 
 Jangan lupa push dengan pesan commit: "W03: Jawaban soal 2".
