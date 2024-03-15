@@ -3,6 +3,8 @@ import Image from "next/image";
 import Profile from "../components/profile";
 import { Gallery } from "@/components/gallery";
 import  Todolist  from "@/components/todolists";
+import MyGallery from "@/components/mygallery";
+
 export default function Home() {
   return (
     <main className="flex max-h-screen flex-col items-center justify-between p-24">
@@ -24,6 +26,11 @@ export default function Home() {
       </div>
       <div className="mb-32 lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <Todolist />
+      </div>
+
+       {/* Practicum Soal 7 */}
+       <div>
+        <MyGallery/>
       </div>
     </main>
   );
